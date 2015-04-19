@@ -16,9 +16,12 @@ This project has been visualized with the intention of creating a smart guide fo
 
 Links 
 ==============================
-[XCTU download](http://www.digi.com/support/productdetail?pid=3352&type=utilities)
-[Google Maps API](https://maps.googleapis.com/maps/api/directions/json?origin=params&destination=params&mode=walking)
-Spoken Tutorial Videos :
+* [XCTU download](http://www.digi.com/support/productdetail?pid=3352&type=utilities)
+* [Google Maps API](https://maps.googleapis.com/maps/api/directions/json?origin=params&destination=params&mode=walking)
+* [Video of Smart Stick Bot](https://youtu.be/8-hMg8YdPkM) 
+
+Spoken Tutorials 
+==============================
 * [XCTU Download](https://youtu.be/3SNRdgIz5I8)
 * [XCTU Installation](https://youtu.be/U2C7ZpRoJcE)
 * [XBee Configuration](https://youtu.be/2CTJmg65-bA)
