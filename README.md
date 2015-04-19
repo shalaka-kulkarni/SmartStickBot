@@ -18,6 +18,12 @@ Links
 ==============================
 [XCTU download](http://www.digi.com/support/productdetail?pid=3352&type=utilities)
 [Google Maps API](https://maps.googleapis.com/maps/api/directions/json?origin=params&destination=params&mode=walking)
+Spoken Tutorial Videos :
+* [XCTU Download](https://youtu.be/3SNRdgIz5I8)
+* [XCTU Installation](https://youtu.be/U2C7ZpRoJcE)
+* [XBee Configuration](https://youtu.be/2CTJmg65-bA)
+* [Google Maps API - Getting the route](https://youtu.be/ZsFIkANUWSo)
+* [Final Setup and Configuration](https://youtu.be/Sfs6oE-SxDY)
 
 
 
